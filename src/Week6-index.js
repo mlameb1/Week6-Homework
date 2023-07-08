@@ -14,7 +14,7 @@ let days = [
   "Wednesday",
   "Thursday",
   "Friday",
-  "Saturday"
+  "Saturday",
 ];
 let day = days[currentDate.getDay()];
 
@@ -30,7 +30,7 @@ let months = [
   "September",
   "October",
   "November",
-  "December"
+  "December",
 ];
 let month = months[currentDate.getMonth()];
 
